@@ -108,7 +108,7 @@ section {
     align-items: center;
     justify-content: center;
     padding: 8rem 0;
-    background: linear-gradient(to bottom, var(--color-blue-gradient-start), var(--color-blue-light-gradient-end), var(--color-big-white));
+    background: linear-gradient(to bottom, var(--color-blue-light-gradient-start) 0%, var(--color-blue-light-gradient-end) 40%, var(--color-bg-white) 100%);
 }
 .main__title, 
 .main__copy-text {
@@ -118,7 +118,7 @@ section {
 .main__title {
     line-height: 1.125;
     letter-spacing: 0.004em;
-    color: var(   --color-text-dark)
+    color: var(--color-text-dark);
 }
 
 .main__subtitle {
