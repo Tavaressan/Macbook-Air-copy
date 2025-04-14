@@ -9,7 +9,7 @@ O projeto foi realizado durante a **Start Week** e busca refletir a estética e 
 ## 📸 View
 
 Acesse a versão publicada do projeto:  
-🔗 [Acesse o site aqui](https://tavaressan.github.io/macbook-air-page-copy/)
+🔗 [Página Clone Macbook Air](https://tavaressan.github.io/macbook-air-page-copy/)
 
 ---
 
