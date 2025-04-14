@@ -11,9 +11,6 @@ O projeto foi realizado durante a **Start Week** e busca refletir a estética e 
 Acesse a versão publicada do projeto:  
 🔗 [Acesse o site aqui](https://tavaressan.github.io/macbook-air-page-copy/)
 
-![Preview do Projeto](./src/assets/images/preview.jpg)  
-*Imagem ilustrativa da interface da landing page.*
-
 ---
 
 ## 🚀 Tecnologias Utilizadas
