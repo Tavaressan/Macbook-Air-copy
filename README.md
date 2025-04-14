@@ -4,10 +4,10 @@ Projeto desenvolvido durante a **Start Week**, com o objetivo de colocar em prá
 
 ---
 
-## 📸 Preview
+## 📸 Veja a Página
 
-![Preview do Projeto](./src/assets/images/preview.jpg)  
-*Simulação visual da landing page clonada.*
+![Visualização do Projeto]((https://tavaressan.github.io/macbook-air-page-copy/))  
+*Emulação visual da landing page clonada.*
 
 ---
 
